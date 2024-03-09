@@ -1,16 +1,5 @@
 package com.ohgiraffers.section02.variable;
 
-/**
- * <pre>
- * Class : Application3
- * Comment : 변수의 명명규칙에 대해 이해한다.
- * History
- * 2020/09/08 (김진호) 처음 작성함
- * </pre>
- * @author 김진호
- * @version 1.0.0
- * @see String
- * */
 public class Application3 {
 
 	public static void main(String[] args) {
